@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpoicyCurri
-- 👀 I’m interested in statistics and using R to improve workflows for myself and my company
+- 👀 I’m interested in statistics and data science.
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on ... dk
 - 📫 How to reach me spoicycurri33@gmail.com
